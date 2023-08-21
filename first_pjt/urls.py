@@ -28,3 +28,4 @@ urlpatterns = [
     path('cube/<int:num>/', views.cube),
     path('posts/', views.posts),
 ]
+
